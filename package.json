@@ -1,6 +1,6 @@
 {
   "name": "aws-codepipeline-s3-codedeploy-linux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use this sample when creating a simple pipeline in AWS CodePipeline while following the Simple Pipeline Walkthrough tutorial. http://docs.aws.amazon.com/codepipeline/latest/userguide/getting-started-w.html",
   "main": "index.js",
   "scripts": {
